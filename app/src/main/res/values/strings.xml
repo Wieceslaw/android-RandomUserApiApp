@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RandomUserApiApp</string>
+    <string name="get_user">Get user</string>
+</resources>
